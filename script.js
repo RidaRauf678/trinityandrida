@@ -1,0 +1,1 @@
+//here is the js file for index
